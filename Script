@@ -1,6 +1,6 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
-local Window = OrionLib:MakeWindow({Name = "Krzvlxfe", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "kean", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 --[[
 Name = <string> - The name of the UI.
@@ -26,7 +26,7 @@ PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
 ]]
 
 local Section = Tab:AddSection({
-	Name = "Follow me Tik Tok @itsyaboicean"
+	Name = "Follow me Tik Tok @zylos_store0"
 })
 
 --[[
@@ -60,7 +60,7 @@ Callback = <function> - The function of the button.
 ]]
 
 Tab:AddButton({
-	Name = "kean's best script",
+	Name = "Banana Hub no key",
 	Callback = function()
       		repeat wait() until game:IsLoaded() and game.Players.LocalPlayer getgenv().Key = "TZJTnkbRpwrhlIoxRakphyBglcleIAst" loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
   	end    
@@ -72,6 +72,17 @@ Tab:AddButton({
       		loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
   	end    
 })
+
+local Section = Tab:AddSection({
+	Name = "Script made by me"
+})
+
+Tab:AddButton({
+	Name = "on Activated luck 2x",
+	Callback = function()
+      		-- إنشاء واجهة GUI جديدة
+local ScreenGui = Instance.new("ScreenGui")
+local TextLabel = Instance.new("TextLabel")
 
 -- إعداد ScreenGui
 ScreenGui.Name = "LuckGui"
@@ -113,6 +124,406 @@ local Tab = Window:MakeTab({
 	Name = "blox fruits but very good",
 	Icon = "rbxassetid://4483345998",
 	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+
+Tab:AddButton({
+	Name = "Vanta Hub op",
+	Callback = function()
+      		loadstring(game:HttpGet("https://rawscripts.net/raw/UPD-Blox-Fruit-But-Very-Good-Vanta-Hub-OP-GIVE-ALL-26764"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+local Tab = Window:MakeTab({
+	Name = "Murder Mystery 2",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+Tab:AddButton({
+	Name = "Freeze TRADE",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/LadenScripting/RhyzenHub/refs/heads/main/MM2",true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "Weapon Spawner",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/LadenScripting/GodlySpawnerz/refs/heads/main/MM2",true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "ESP And others",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/battlewawa/mm2-script/refs/heads/main/mm2scripthack', true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+local Tab = Window:MakeTab({
+	Name = "Dandy's World",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+Tab:AddButton({
+	Name = "Script Dandy's World [ALPHA]❄️ ",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/Dandy's%20World"))("t.me/arceusxscripts")
+  	end    
+})
+
+local Tab = Window:MakeTab({
+	Name = "Animation",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+Tab:AddButton({
+	Name = "scp-096",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastefy.app/YsJgITXR/raw"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "box",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastefy.app/wxVAgZpT/raw"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "fling",
+	Callback = function()
+      		loadstring(game:HttpGet('https://pastebin.com/raw/TXMNj1yy'))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "vr r6",
+	Callback = function()
+      		loadstring(game:HttpGet("https://rawscripts.net/raw/Untitled-Game-Fake-Vr-but-only-r6-17644"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({Name = "Script_zylos", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+--[[
+Name = <string> - The name of the UI.
+HidePremium = <bool> - Whether or not the user details shows Premium status or not.
+SaveConfig = <bool> - Toggles the config saving in the UI.
+ConfigFolder = <string> - The name of the folder where the configs are saved.
+IntroEnabled = <bool> - Whether or not to show the intro animation.
+IntroText = <string> - Text to show in the intro animation.
+IntroIcon = <string> - URL to the image you want to use in the intro animation.
+Icon = <string> - URL to the image you want displayed on the window.
+CloseCallback = <function> - Function to execute when the window is closed.
+]]
+local Tab = Window:MakeTab({
+	Name = "blox fruit",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+--[[
+Name = <string> - The name of the section.
+]]
+
+OrionLib:MakeNotification({
+	Name = "home",
+	Content = "Notification content... what will it say??",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})
+
+--[[
+Title = <string> - The title of the notification.
+Content = <string> - The content of the notification.
+Image = <string> - The icon of the notification.
+Time = <number> - The duration of the notfication.
+]]
+
+Tab:AddButton({
+	Name = "redz Hub",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "Banana Hub no key",
+	Callback = function()
+      		repeat wait() until game:IsLoaded() and game.Players.LocalPlayer getgenv().Key = "TZJTnkbRpwrhlIoxRakphyBglcleIAst" loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaHub.lua"))()
+  	end    
+})
+
+Tab:AddButton({
+	Name = "CokkaHub",
+	Callback = function()
+      		loadstring(game:HttpGet"https://raw.githubusercontent.com/UserDevEthical/Loadstring/main/CokkaHub.lua")()
+  	end    
+})
+
+local Section = Tab:AddSection({
+	Name = "Script made by me"
+})
+
+Tab:AddButton({
+	Name = "on Activated luck 2x",
+	Callback = function()
+      		-- إنشاء واجهة GUI جديدة
+local ScreenGui = Instance.new("ScreenGui")
+local TextLabel = Instance.new("TextLabel")
+
+-- إعداد ScreenGui
+ScreenGui.Name = "LuckGui"
+ScreenGui.Parent = game.CoreGui -- يضمن ظهورها في واجهة المستخدم
+
+-- إعداد TextLabel
+TextLabel.Parent = ScreenGui
+TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0) -- لون خلفية أسود
+TextLabel.BackgroundTransparency = 0.5 -- شفافية الخلفية
+TextLabel.Size = UDim2.new(1, 0, 1, 0) -- يجعل النص يغطي الشاشة بالكامل
+TextLabel.Position = UDim2.new(0, 0, 0, 0) -- توسيط النص بالكامل
+TextLabel.Text = " on Activated luck 2x"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255) -- لون النص أبيض
+TextLabel.TextScaled = true -- يجعل النص يتكيف مع الحجم
+TextLabel.Font = Enum.Font.SourceSansBold -- نوع الخط
+
+-- إظهار النص لمدة ثانيتين ثم إزالته
+wait(2)
+ScreenGui:Destroy()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+local Tab = Window:MakeTab({
+	Name = "blox fruits but very good",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+
+Tab:AddButton({
+	Name = "Vanta Hub op",
+	Callback = function()
+      		loadstring(game:HttpGet("https://rawscripts.net/raw/UPD-Blox-Fruit-But-Very-Good-Vanta-Hub-OP-GIVE-ALL-26764"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+local Tab = Window:MakeTab({
+	Name = "Murder Mystery 2",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+Tab:AddButton({
+	Name = "Freeze TRADE",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/LadenScripting/RhyzenHub/refs/heads/main/MM2",true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "Weapon Spawner",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/LadenScripting/GodlySpawnerz/refs/heads/main/MM2",true))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "ESP And others",
+	Callback = function()
+      		loadstring(game:HttpGet('https://raw.githubusercontent.com/battlewawa/mm2-script/refs/heads/main/mm2scripthack', true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+local Tab = Window:MakeTab({
+	Name = "Dandy's World",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+Tab:AddButton({
+	Name = "Script Dandy's World [ALPHA]❄️ ",
+	Callback = function()
+      		loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/Dandy's%20World"))("t.me/arceusxscripts")
+  	end    
+})
+
+local Tab = Window:MakeTab({
+	Name = "Animation",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Follow me Tik Tok @zylos_store0"
+})
+
+Tab:AddButton({
+	Name = "scp-096",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastefy.app/YsJgITXR/raw"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "box",
+	Callback = function()
+      		loadstring(game:HttpGet("https://pastefy.app/wxVAgZpT/raw"))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "fling",
+	Callback = function()
+      		loadstring(game:HttpGet('https://pastebin.com/raw/TXMNj1yy'))()
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "vr r6",
+	Callback = function()
+      		loadstring(game:HttpGet("https://rawscripts.net/raw/Untitled-Game-Fake-Vr-but-only-r6-17644"))()
+  	end    
+})
 
 --[[
 Name = <string> - The name of the button.
